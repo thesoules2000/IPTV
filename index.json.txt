@@ -1,0 +1,5 @@
+{
+  "type": "iptv",
+  "title": "Мой Goodstreem IPTV",
+  "playlist_url": "http://f99ea071b4d8.goodstreem.org/playlists/uplist/5506f41e6aeb13516e8ba1a104a26fb5/playlist.m3u8"
+}
